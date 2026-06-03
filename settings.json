@@ -1,0 +1,8 @@
+{
+  "lang": "ru",
+  "mode": "raw",
+  "device": "cpu",
+  "model": "large-v3-turbo",
+  "output_dir": "C:/Users/Владимир/Videos",
+  "appearance": "dark"
+}
